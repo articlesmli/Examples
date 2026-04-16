@@ -1,4 +1,4 @@
 [core]
     remote = my_remote
 ['remote "my_remote"']
-    url = /mnt/c/Users/ivano/Desktop/dvc_remote
+    url = /mnt/c/Users/ivano/OneDrive/Self-appeared/Desktop/dvc_remote
