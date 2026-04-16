@@ -1,4 +1,5 @@
 [core]
     remote = my_remote
+    autostage = true
 ['remote "my_remote"']
     url = /mnt/c/Users/ivano/OneDrive/Self-appeared/Desktop/dvc_remote
